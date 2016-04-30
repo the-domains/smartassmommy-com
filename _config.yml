@@ -1,0 +1,28 @@
+name: smartassmommy.com
+favicon: null
+layout_spectrum: 0.7478903313167393
+typography_spectrum: 0.501638840418309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6431673073675483
+  lightness: 0.2760085097979754
+  saturation: 0.4745616363361478
+  rhythmicContrast: 0.1824955043848604
+purpose: []
